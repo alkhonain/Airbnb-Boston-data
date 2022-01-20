@@ -35,5 +35,5 @@ This notebook will answer three differnt type of problems which are:
 - Matplotlib, Seaborn for plotting
 
 ## Files
-You can find The Notebook [here](https://github.com/alkhonain/Airbnb-Boston-data/blob/main/Notebook.ipynb)and the dataset [here](https://github.com/alkhonain/Airbnb-Boston-data/tree/main/Dataset)
+You can find The Notebook [here](https://github.com/alkhonain/Airbnb-Boston-data/blob/main/Notebook.ipynb) and the dataset [here](https://github.com/alkhonain/Airbnb-Boston-data/tree/main/Dataset)
 
